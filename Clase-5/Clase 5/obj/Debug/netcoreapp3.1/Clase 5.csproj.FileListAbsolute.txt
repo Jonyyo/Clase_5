@@ -1,0 +1,13 @@
+C:\Users\7010\source\repos\Clase 5\bin\Debug\netcoreapp3.1\Clase 5.exe
+C:\Users\7010\source\repos\Clase 5\bin\Debug\netcoreapp3.1\Clase 5.deps.json
+C:\Users\7010\source\repos\Clase 5\bin\Debug\netcoreapp3.1\Clase 5.runtimeconfig.json
+C:\Users\7010\source\repos\Clase 5\bin\Debug\netcoreapp3.1\Clase 5.runtimeconfig.dev.json
+C:\Users\7010\source\repos\Clase 5\bin\Debug\netcoreapp3.1\Clase 5.dll
+C:\Users\7010\source\repos\Clase 5\bin\Debug\netcoreapp3.1\Clase 5.pdb
+C:\Users\7010\source\repos\Clase 5\obj\Debug\netcoreapp3.1\Clase 5.csprojAssemblyReference.cache
+C:\Users\7010\source\repos\Clase 5\obj\Debug\netcoreapp3.1\Clase 5.AssemblyInfoInputs.cache
+C:\Users\7010\source\repos\Clase 5\obj\Debug\netcoreapp3.1\Clase 5.AssemblyInfo.cs
+C:\Users\7010\source\repos\Clase 5\obj\Debug\netcoreapp3.1\Clase 5.csproj.CoreCompileInputs.cache
+C:\Users\7010\source\repos\Clase 5\obj\Debug\netcoreapp3.1\Clase 5.dll
+C:\Users\7010\source\repos\Clase 5\obj\Debug\netcoreapp3.1\Clase 5.pdb
+C:\Users\7010\source\repos\Clase 5\obj\Debug\netcoreapp3.1\Clase 5.genruntimeconfig.cache
